@@ -1,0 +1,14 @@
+{
+  "name": "Example Go",
+  "description": "Go Getting Started Example App",
+  "keywords": [
+    "getting-started",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/Codispatch/ExampleGo",
+  "website": "http://github.com/Codispatch/ExampleGo",
+  "repository": "http://github.com/Codispatch/ExampleGo"
+}
